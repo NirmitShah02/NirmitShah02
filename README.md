@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nirmit Shah.
-- 👀 I’m interested in Ethical Hackinh, Cybersecurity.
+- 👀 I’m interested in Ethical Hacking, Cybersecurity.
 - 🌱 I’m currently persuing Computer Engineering with Specialization in Artificial Intelligence and Machine Learning. 
 - 📫 How to reach me nirmit.shah0207@gmail.com
 
